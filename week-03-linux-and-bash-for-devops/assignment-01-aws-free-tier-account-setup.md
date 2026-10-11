@@ -1,4 +1,4 @@
-# Assignment 1 — AWS Free Tier Account Setup (EpicReads Cloud Onboarding)
+ # Assignment 1 — AWS Free Tier Account Setup (EpicReads Cloud Onboarding)
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
@@ -18,21 +18,25 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 ### Answers
 
-#### Question 1 — What is an AWS account, and why do you need it at this stage?
+#### Question 1 — What is an AWS account, and why do you need it at this stage
 
-Write your answer here.
+AWS account is gateway one can access AWS services like networking, compute, storage, database. It provides environment where one can build,  to configure cloud infrastructure. 
+It's needed at this stage to gain practical hands on experience configuring and managing cloud services.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier is a free AWS account that allows users to practice with AWS cloud services without incuring personal cost apart from the free credits given by AWS.
+It lasts for 6 months or untill the Free Tier credits are exhausted before having the option of moving to paid plan or close the account
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon EC2    750 hours of EC2 instance usage per month
+Amazon S3     5GB of S3 standard storage, 20000 GET request per month
+Lambda        1 million function invocation per month, 400000GB-seconds of compute per month
 
 ---
 
@@ -56,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+screenshot 3.png
 
 ---
 

@@ -20,7 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
+screenshot 1.png
 
 ---
 
@@ -34,7 +34,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+screenshot 2.png
 
 ---
 
@@ -48,7 +48,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+screenshot 4.png
 
 ---
 
@@ -61,8 +61,8 @@ Update `App.js` with your full name and the current date.
 ### Evidence
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
-
-Add your screenshot here.
+ 
+screenshot 5.png
 
 ---
 

@@ -25,16 +25,15 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/screenshot1.png)
 
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+Replace `task-1-chatgpt.png` with your actual screenshot file name
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate and exchange data over a network. It determines how information is sent, received and understood between devices on a network.
 
 ---
 
@@ -59,7 +58,14 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user from the USA visits the **EpicReads** website hosted in Finland,
+
+Firstly, the user enters the website’s domain name, such as `epicreads.com`. DNS translates this domain name into the website’s IP address, which identifies the server hosting EpicReads.
+
+The user’s device then uses TCP/IP, networking protocol that allows devices to communicate and ensures data is delivered to the correct destination using packet switching, where data is broken into small packets that travel across different networks and routes to Finland, where they are reassembled.
+
+The HTTP/HTTPS manages communication between the user’s browser and the web server. HTTPS provides security by encrypting the data exchanged between the user and EpicReads, helping protect information from unauthorized access.
+
 
 ---
 
@@ -91,7 +97,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/screenshot2.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -101,19 +107,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 ## Technologies Used
 
 ### Frontend
-
-* Add your answer here...
-* Add your answer here...
+* Next.js
+* Axios
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* Redis
 
 ---
 
@@ -142,7 +147,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It translates a human readable domain name, epicreads.com, into the IP address of the server hosting the website. An A record should be used because it connects a domain name to an IPv4 address. For example;  it connects epicreads.com to 52.172.142.222. 
 
 ---
 
@@ -178,7 +183,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/screenshot3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -237,7 +242,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/e5QuZ43J
 ```
 
 ---
@@ -246,7 +251,19 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 00 of the DevOps Micro Internship (DMI) – Foundation Track!
+
+This week provided an opportunity to revisit and strengthen my understanding of core concepts in networking, application architecture, and developer tools. Through the assignments, I explored internet communication using concepts such as packet switching, IP addressing, TCP/IP, and HTTP/HTTPS, applied them to a real-world online bookstore scenario, and compared two-tier and three-tier application architectures. I also reinforced my understanding of DNS resolution and A records, practised using Visual Studio Code and its integrated terminal, and explored effective ways to leverage ChatGPT as a learning assistant.
+
+Although these concepts are familiar to me, revisiting them through practical assignments is a valuable way to reinforce my knowledge, and ensure I have a solid foundation for more advanced concepts. I'm embracing this process and looking forward to deepening my skills as I continue my journey in DevOps and Cloud Engineering. 
+
+A big thank you to Pravin Mishra for putting together this structured and practical learning experience.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Foundation Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/eGERujPx • Start your DevOps journey: https://lnkd.in/eG7Z3Zi8
+
+
+
+#DMIByPravinMishra #AgenticAI #DevOps #CloudComputing #Networking #LearningInPublic #ContinuousLearning
 
 ---
 
@@ -254,19 +271,20 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found understanding networking protocols very straightforward because breaking them down with real life analogies made the concepts clear, and easy to recall.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Nothing was difficult for me during this assignment. Everything was clear and straightforward
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will focus on practicing more hands on terminal commands so I can navigate section 02: "Linux for Devops Engineers" smoothly.
 
 ---
 
